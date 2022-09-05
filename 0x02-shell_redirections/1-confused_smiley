@@ -1,0 +1,7 @@
+#!/bin/bash
+<<<<<<< HEAD
+echo "(Ôo)'
+cat /etc/passwd
+=======
+echo "\"(Ôo)'"
+>>>>>>> 0d19d1b8380c41d1ba029a7b4de630eaa28207a0
